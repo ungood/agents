@@ -14,8 +14,16 @@
       "source": "./plugins/claude"
     },
     {
+      "name": "cli",
+      "source": "./plugins/cli"
+    },
+    {
       "name": "github",
       "source": "./plugins/github"
+    },
+    {
+      "name": "markdown",
+      "source": "./plugins/markdown"
     },
     {
       "name": "memex",
@@ -24,6 +32,14 @@
     {
       "name": "nix",
       "source": "./plugins/nix"
+    },
+    {
+      "name": "todoist",
+      "source": "./plugins/todoist"
+    },
+    {
+      "name": "writing-style",
+      "source": "./plugins/writing-style"
     }
   ]
 }
