@@ -1,0 +1,5 @@
+{
+  "name": "todoist",
+  "description": "Interact with Todoist via MCP for task management",
+  "version": "0.1.0"
+}
