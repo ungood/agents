@@ -117,17 +117,17 @@ Cut these entirely or replace with direct language.
 
 **Noun phrase pileups.** "This comprehensive, data-driven, user-centric approach to streamlined, efficient workflow optimization..." — this is word salad. Break it up or simplify.
 
-**Sentence fragments as descriptions.** "Division-wide technical architecture for the Asset Intelligence system." is not a sentence — it's a label. Write "This document describes the division-wide technical architecture..." instead. Fragments are fine in conversation ("Not bad.") but not as topic sentences, section openers, or document descriptions. If it would need a period to look finished but doesn't have a verb, it's a fragment pretending to be prose.
+**Sentence fragments in formal writing.** "Visible and consistent." or "Division-wide technical architecture for the Asset Intelligence system." aren't sentences — they're labels or telegraph. Fragments are fine in short conversational replies ("Not bad." / "Done.") but not in feedback, proposals, reviews, vault docs, or any other formal writing. If a string lacks a subject or a verb but is punctuated as a sentence, it's a fragment pretending to be prose. Write the full sentence: "Her ownership is visible and consistent." or "This document describes the division-wide technical architecture..." Concise means cutting wasted words within proper grammar, not amputating sentences to hit a lower word count.
 
 ## What Good Writing Looks Like
 
-- **Concise above all.** Say it once, say it short, move on. If a section can lose a paragraph without losing meaning, lose the paragraph. If a paragraph can be a sentence, make it a sentence.
+- **Concise, not telegraphic.** Say it once, say it short, move on. Cut filler, hedging, and restatement — but don't amputate grammar to do it. If a section can lose a paragraph without losing meaning, lose the paragraph. If a paragraph can be a sentence, make it a sentence — a real one, with a subject and a verb.
 - **State, don't sell.** Describe what something is and how it works. Don't justify, argue merits, or preempt objections — unless asked. "Devbox wraps Nix in JSON config" is enough. Adding "which reduces adoption friction" is selling.
 - **One point per paragraph.** If you're making the same point with different words, pick the strongest version and cut the rest.
 - **Direct.** Lead with the answer or recommendation. Context after, if needed.
 - **Specific.** "You have 12 overdue tasks, 8 personal admin" beats "quite a few overdue tasks across various categories."
 - **Honest.** If something isn't working, say so. Don't manufacture enthusiasm.
-- **Matched register.** Jason writes informally with technical precision. Contractions, fragments, starting sentences with "And" or "But" — all fine.
+- **Matched register.** Conversational chat with Jason is informal: contractions, occasional fragments, and starting sentences with "And" or "But" are all fine. Formal writing — feedback, proposals, reviews, ADRs, vault docs shared with others — needs complete sentences and flowing prose with proper transitions. Informality there reads as unprofessional, and telegraphic style reads as robotic. Bullets remain for discrete enumerable items (steps, options, criteria); prose carries analysis and narrative.
 - **Concrete.** Prefer words that create mental images over abstract nouns.
 - **Economical.** Not every transition needs a connector. If the next point follows obviously, just state it.
 - **Varied rhythm.** Mix sentence lengths. A two-word sentence after a complex one creates emphasis. Monotonous cadence is a tell.
